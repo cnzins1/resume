@@ -1,6 +1,14 @@
 **Professional Coding and Moderation Experience**
 
 **Anti-Cheat Developer**
+Baddies, Roblox
+- Developed and implemented anti-cheat systems such as Anti-Speed Anti teleport, a popular roblox game kinda based like da hood but funnier where you beat up other people and steal they wigs.
+- Conducted exploit logs and investigations resulting in the banning of a lot of users.
+- Maintained a updated security system myself to make sure hackers couldnt mess with the game.
+- Game Link: https://www.roblox.com/games/11158043705/Baddies-beta
+
+------
+**Anti-Cheat Developer**
 Aura Craft, Roblox
 - Developed and implemented anti-cheat systems for Aura Craft, a popular Roblox game focused on fusing elements.
 - Conducted exploit logs and investigations resulting in the banning of several hundred users to maintain fair gameplay.
