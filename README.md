@@ -62,3 +62,6 @@ Tha Bronx 2, Roblox
 - Video Demonstration: https://www.youtube.com/watch?v=uxtbqFC_wDc&t=32s
 
 ---
+**HTML - coding experience**
+- zincution, Connects to exploits via javascript and python code and lua code executed by ur roblox executer that allows you to exploit via a website executor.
+https://zincution.000webhostapp.com
