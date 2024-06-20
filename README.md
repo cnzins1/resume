@@ -29,8 +29,8 @@ Field and Track: Infinite, Roblox
 **Anti-Cheat Developer**
 Gym League, Roblox
 
--Managed exploit logs and led anti-cheat efforts resulting in the banning of several hundred users to maintain fair gameplay.
--Implemented effective anti-cheat measures to ensure a level playing field for all participants.
+- Managed exploit logs and led anti-cheat efforts resulting in the banning of several hundred users to maintain fair gameplay.
+- Implemented effective anti-cheat measures to ensure a level playing field for all participants.
 Game Link: https://www.roblox.com/games/17450551531/UPDATE-1-Gym-League
 
 -------
