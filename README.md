@@ -1,9 +1,19 @@
 **Professional Coding and Moderation Experience**
 
+
+**Anti-Cheat Developer**
+Blade Ball, Roblox
+
+- Conducted exploit logs and investigations resulting in the result of banning thousands of exploiters.
+- Maintained a updated security system myself to make sure hackers couldnt stand.
+- Game Link: [Blade ball](https://www.roblox.com/games/13772394625/UPD-Blade-Ball)
+
+-----
+
 **Anti-Cheat Developer**
 Baddies, Roblox
 - Developed and implemented anti-cheat systems such as Anti-Speed Anti teleport, a popular roblox game kinda based like da hood but funnier where you beat up other people and steal they wigs.
-- Conducted exploit logs and investigations resulting in the banning of a lot of users.
+- Conducted exploit logs and investigations resulting in the banning thousands .
 - Maintained a updated security system myself to make sure hackers couldnt mess with the game.
 - Game Link: https://www.roblox.com/games/11158043705/Baddies-beta
 
