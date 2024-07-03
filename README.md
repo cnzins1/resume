@@ -15,7 +15,7 @@ Baddies, Roblox
 - Developed and implemented anti-cheat systems such as Anti-Speed Anti teleport, a popular roblox game kinda based like da hood but funnier where you beat up other people and steal they wigs.
 - Conducted exploit logs and investigations resulting in the banning thousands .
 - Maintained a updated security system myself to make sure hackers couldnt mess with the game.
-- Game Link: [Baddies ✔](https://www.roblox.com/games/11158043705/Baddies-beta))
+- Game Link: [Baddies ✔] (https://www.roblox.com/games/11158043705/Baddies-beta))
 
 ------
 **Anti-Cheat Developer**
